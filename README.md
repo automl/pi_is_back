@@ -1,5 +1,5 @@
 # PI is back! Switching Acquisition Functions in Bayesian Optimization
-This is the repository for the submission.
+This is the repository for the workshop paper at the Gaussian Process workshop at NeurIPS'22.
 
 ## Installation
 Create a fresh conda environment.

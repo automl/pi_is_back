@@ -58,6 +58,10 @@ python evaluation/evaluate_manual.py '+baseline=glob(*)' 'seed=range(1,41)' 'coc
 Maybe you need to split this command because this creates 7\*40\*25\*2=14000 jobs.
 This creates a hydra job array deployed on slurm. You can also use a local launcher (submitit local).
 
+**OR**
+
+See our raw [dataset](https://drive.google.com/file/d/1iFhF5HB2vH7bUVUj7B5B6U5yPDJ3tAAo/view?usp=sharing).
+
 ### Collect Rollout Data and Plot
 See `evaluation/analyse_bbob.ipynb`.
 

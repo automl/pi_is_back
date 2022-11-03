@@ -60,7 +60,7 @@ This creates a hydra job array deployed on slurm. You can also use a local launc
 
 **OR**
 
-See our raw [dataset](https://drive.google.com/file/d/1iFhF5HB2vH7bUVUj7B5B6U5yPDJ3tAAo/view?usp=sharing).
+See our raw [dataset](https://drive.google.com/file/d/1iFhF5HB2vH7bUVUj7B5B6U5yPDJ3tAAo/view?usp=sharing) (2.1GB) 🔮.
 
 ### Collect Rollout Data and Plot
 See `evaluation/analyse_bbob.ipynb`.

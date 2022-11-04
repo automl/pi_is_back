@@ -1,5 +1,20 @@
 # PI is back! Switching Acquisition Functions in Bayesian Optimization
-This is the repository for the workshop paper at the Gaussian Process workshop at NeurIPS'22.
+This is the repository for the workshop paper ([link to arXiv](https://arxiv.org/abs/2211.01455)) at the Gaussian Process workshop at NeurIPS'22.
+
+If you use our work or [dataset](https://drive.google.com/file/d/1iFhF5HB2vH7bUVUj7B5B6U5yPDJ3tAAo/view?usp=sharing) (2.1GB), please cite us:
+```
+@misc{https://doi.org/10.48550/arxiv.2211.01455,
+  doi = {10.48550/ARXIV.2211.01455},  
+  url = {https://arxiv.org/abs/2211.01455},  
+  author = {Benjamins, Carolin and Raponi, Elena and Jankovic, Anja and van der Blom, Koen and Santoni, Maria Laura and Lindauer, Marius and Doerr, Carola},  
+  keywords = {Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},  
+  title = {PI is back! Switching Acquisition Functions in Bayesian Optimization},  
+  publisher = {arXiv},  
+  year = {2022},  
+  copyright = {Creative Commons Attribution Share Alike 4.0 International}
+}
+```
+
 
 ## Installation
 Create a fresh conda environment.
